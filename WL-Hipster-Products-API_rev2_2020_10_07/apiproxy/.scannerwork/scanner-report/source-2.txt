@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="QU-ProductQuota" version="SHA-512:8c43065097b94d146d9d91a578f141b8535fd2d2e8e801fcad4f1578f0a486c89f71f9377e80f604fcbcf3f7176b46ecdaec2875ca5cff2a5f3176c4c7efb561"/>
+        <VersionInfo resourceName="Remove-API-Key" version="SHA-512:501dc0f87b9b83c5ad057f717f86f5875a99201f5f78f7dba56a449424cef90358d6319370806c5614bd4c677c59d6c3efa01eab3fe90d38f0420101d916599b"/>
+        <VersionInfo resourceName="Set-CORS-Response-Headers" version="SHA-512:49276f1eb2b4db2f7436eac8807fd91f465a21542dcbe2a757294c292a08f96c13cb6b4fcf957b1acd0ab22dd2126c63b7bcf7e3c343a17e75b07add447804ec"/>
+        <VersionInfo resourceName="Set-OPTIONS-Status-Code" version="SHA-512:1096ce18b7eb959b79e0880938e4b5ded9efad026f16dd6886d93261f525d42802be55716cee29e387f5b4444706b3e45f7d96cbae1911663e5dfc7499ffcc68"/>
+        <VersionInfo resourceName="Verify-API-Key" version="SHA-512:6cc90d8f102003c2a3122242902885575769f0c45c2867c26c9cad4da5aae38be27599e5b51325ba6c63fae14e89cb4bf9f4b46b83e85cce0db66ae6704c7eba"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:2260787fa5a8d1e5e99eab8918d44e8ff4123e22758829ba0b0334754e0cd033759fa7394af95adf8b07129d1f3eeb6e8b10533a43842082711875461949f95a"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="openapi://association.json" version="SHA-512:a80ec7bfccb3dab5455b9a491ef290d24177f4d90bc521dbe891e436963ff5044a04692c15bb46ae2f3c8b6b633710637c84203310336a9a44e4c108fce02703"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:f447f7f240720b50fea447e9bcc54689bda1e8f3e8241f22947e9a9b9ed999f51b3288884052f43125a45683ed1e7d36b8a49e1488c9195f910391efee267974"/>
+    </TargetEndpoints>
+</Manifest>
