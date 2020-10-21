@@ -1,1 +1,0 @@
- 2xmlXhr&policies/Set-CORS-Response-Headers.xml
